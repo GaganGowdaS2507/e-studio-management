@@ -64,6 +64,6 @@ python main_app.py
 ## ✅ Make sure your MySQL server is running and the estudio_db database is created using:
 
 pgsql
-Copy code
+
 database/estudio_db_schema.sql
 
